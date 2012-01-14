@@ -1,0 +1,7 @@
+Android IME using a SNES gamepad connected to a IOIO
+
+Latch Pin3 (OPENDRAIN)
+Clock Pin4 (OPENDRAIN)
+Data  Pin5
+
+Uses modified version of IOIOLib
